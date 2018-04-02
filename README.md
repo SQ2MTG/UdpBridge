@@ -10,7 +10,10 @@ INSTALLATION INSTRUCTIONS
     
 RELEASE NOTE
 ============
-
+0.0.8
+```
+Better N1MM decoder
+```    
 0.0.7
 
     Better Win-test decoder
